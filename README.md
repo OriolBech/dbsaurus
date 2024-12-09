@@ -13,3 +13,10 @@ This project provides a modular and standardized way to back up MySQL or Postgre
 3. Build the Docker image:
    ```bash
    docker build -t database-backup .
+4. Use de image:
+   docker run --rm \
+    -v /path/to/local/backups:/backups \
+    --env-file /path/to/.env \
+    database-backup \
+    bash /app/scripts/backup_postgresql.sh
+
