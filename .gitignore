@@ -1,2 +1,5 @@
 .env
 var/
+venv
+.DS_Store
+__pycache__/

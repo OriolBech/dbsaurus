@@ -1,0 +1,8 @@
+README.md
+setup.py
+dbsaurus.egg-info/PKG-INFO
+dbsaurus.egg-info/SOURCES.txt
+dbsaurus.egg-info/dependency_links.txt
+dbsaurus.egg-info/entry_points.txt
+dbsaurus.egg-info/requires.txt
+dbsaurus.egg-info/top_level.txt

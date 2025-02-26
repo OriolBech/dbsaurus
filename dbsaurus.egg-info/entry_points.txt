@@ -1,0 +1,2 @@
+[console_scripts]
+dbsaurus = dbsaurus.main:cli
