@@ -165,4 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source projects that inspired us
 - Our amazing contributors
 
+## 🎡 Author
+Developed by Oriol Bech – feel free to reach out! 🚀
 
